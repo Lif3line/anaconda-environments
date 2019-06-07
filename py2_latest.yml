@@ -1,0 +1,11 @@
+name: py2_latest
+dependencies:
+  - python=2.7
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - cython
+  - h5py
