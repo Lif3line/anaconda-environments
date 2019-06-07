@@ -31,3 +31,9 @@ This command will return a list of the installed environments.
 ## Description of Environments
 
 This section contains a list of the environments, the name to activate it within `conda` and their contents.
+
+### Python 3 Latest
+
+Latest Python 3 version with basic data science tools such as `scipy`, `sklearn` and `pandas` as well as `cython` for compiling shared libraries. Use:
+
+`conda activate py3_latest`

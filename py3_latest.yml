@@ -1,0 +1,11 @@
+name: py3_latest
+dependencies:
+  - python>=3.7
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - cython
+  - h5py
