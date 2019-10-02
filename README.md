@@ -49,3 +49,7 @@ Copy of `py3_latest` but with Python version forced to 3.6 for compatibility wit
 Copy of `py3_latest` but with the latest version of Python 2. Use:
 
 `conda activate py2_latest`
+
+### Data Science  (`data_science`)
+
+Extension of `py3_latest` environment with more advanced tools including `statsmodels` and `keras`. This environment was separated to avoid bloating `py3_latest`.

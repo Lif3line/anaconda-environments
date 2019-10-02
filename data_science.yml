@@ -1,0 +1,14 @@
+name: data_science
+dependencies:
+  - python>=3.7
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - cython
+  - h5py
+  - statsmodels
+  - keras
+  - pip
