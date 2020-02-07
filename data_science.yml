@@ -12,7 +12,7 @@ dependencies:
   - statsmodels
   - keras
   - bokeh
-  - tensorflow>=2.0
+  - tensorflow
   - pip
   - pip:
     - pytest
