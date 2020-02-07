@@ -11,4 +11,8 @@ dependencies:
   - h5py
   - statsmodels
   - keras
+  - bokeh
+  - tensorflow-cpu>=2.0
   - pip
+  - pip:
+    - pytest
