@@ -1,6 +1,7 @@
 name: data_science
 dependencies:
   - python>=3.7
+  - conda-build
   - numpy
   - pandas
   - scipy
