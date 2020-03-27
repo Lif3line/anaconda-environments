@@ -9,3 +9,7 @@ dependencies:
   - seaborn
   - cython
   - h5py
+  - pip
+  - pip:
+    - pytest
+    - pdoc
