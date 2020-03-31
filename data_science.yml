@@ -17,4 +17,4 @@ dependencies:
   - pip
   - pip:
     - pytest
-    - pdoc
+    - pdoc3
