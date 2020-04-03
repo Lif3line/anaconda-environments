@@ -14,3 +14,4 @@ dependencies:
     - pytest
     - pdoc3
     - coverage
+    - pytest-cov
