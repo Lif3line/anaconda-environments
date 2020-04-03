@@ -18,3 +18,5 @@ dependencies:
   - pip:
     - pytest
     - pdoc3
+    - coverage
+  
